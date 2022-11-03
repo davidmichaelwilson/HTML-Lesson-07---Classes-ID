@@ -1,0 +1,33 @@
+body {
+    background: #234;
+    color: white;
+} 
+
+section {
+    background: #456; 
+    padding: 50px;
+    margin: 100px 0;
+}
+
+.bg-light {
+  background: #fff;
+  color: #333;
+}
+
+.bg-dark {
+  background: #333;
+  color: #fff;
+}
+
+#margin {
+  font-family: verdana;  
+}
+
+#padding {
+  border-radius: 10px;
+}
+
+#borders {
+  border-style: dotted dashed solid double;
+  border-color: green;
+}
